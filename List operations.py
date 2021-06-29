@@ -7,5 +7,5 @@ L.append('Microsoft') #adds element to the list
 L.insert(0, 'Sony') #adds element at desired index
 L.remove('Sony') #removes element
 del L[0] #deletes element at desired index
-L.clear()
+L.clear() #clears all the elements form the list
 print(L)
