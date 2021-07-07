@@ -1,4 +1,7 @@
 #FUNCTIONS:
+
+#FUNCTIONS ARE USED FOR THEIR REUSABILITY
+
 def myfunction():    #Defining the function
     print('Called')
 
